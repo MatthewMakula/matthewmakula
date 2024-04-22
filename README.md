@@ -1,4 +1,4 @@
-### Hi there 👋<h1>Hi, I'm matthew, anhttps://www.linkedin.com/in/matthew-makula-238abb304/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BSjUgJA5wRQuv3o1hrj3hkQ%3D%3D IT Professional</a>☺</h1>
+<h1>Hi, I'm matthew, an <a href="https://linkedin.com/in/matthew makula">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -16,9 +16,6 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
 
-
+[linkedin]: https://linkedin.com/in/matthew makula
 
